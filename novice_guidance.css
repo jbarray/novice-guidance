@@ -1,0 +1,33 @@
+#guidance{
+    position: fixed;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-color: lightgray;
+    opacity: .8;
+}
+#guidance-img{
+    position: absolute;
+}
+.guidance-img1{
+    margin-left: 335px;
+    margin-top: 150px;
+}
+.guidance-img2{
+    margin-left: 680px;
+    margin-top: -470px;
+}
+.guidance-img3{
+    margin-left: 668px;
+    margin-top: -108px;
+}
+.guidance-img4{
+    margin-left: 508px;
+    margin-top: -483px;
+}
+.guidance-img5{
+    margin-left: 607px;
+    margin-top: -353px;
+}
+
